@@ -40,6 +40,21 @@ A self-hosted home server built using an old HP laptop running Ubuntu Server 24.
 
 ![Architecture](architecture/homelab-architecture.png)
 
+
 - Monitoring
 - VPNs
 - Security Hardening
+
+## Screenshots
+
+### CasaOS Dashboard
+
+![CasaOS](screenshots/casaos-dashboard.png)
+
+### Uptime Kuma Monitoring
+
+![Uptime Kuma](screenshots/uptime-kuma-dashboard.png)
+
+### SMB Share Windows
+
+![SMB Share](screenshots/smb-share-windows.png)
