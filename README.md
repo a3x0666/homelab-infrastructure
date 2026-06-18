@@ -1,3 +1,8 @@
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-24.04-E95420)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED)
+![Tailscale](https://img.shields.io/badge/Tailscale-Remote_Access-blue)
+![Uptime_Kuma](https://img.shields.io/badge/Uptime_Kuma-Monitoring-green)
+
 # HomeLab Infrastructure
 
 A self-hosted home server built using an old HP laptop running Ubuntu Server 24.04 LTS.
