@@ -13,13 +13,19 @@
 
 A self-hosted infrastructure project built on an old HP laptop running Ubuntu Server 24.04 LTS. The project focuses on building a lightweight, secure, and fully documented homelab using open-source technologies while serving as a platform for learning Linux administration, networking, Docker, and self-hosting.
 
-Unlike traditional homelabs managed through third-party interfaces, this project is centered around a custom Flask dashboard that provides a unified interface for managing infrastructure services.
+Rather than relying on an off-the-shelf management interface, this project is centered around a custom Flask dashboard that provides centralized access to infrastructure services and system information.
 
 ---
 
+## Preview
+
+The homelab is managed through a custom Flask dashboard that provides centralized access to infrastructure services, system information, and network tools.
+
+> Dashboard screenshots will be added as the project evolves.
+
 ## Overview
 
-The current infrastructure includes:
+The current platform consists of the following core components:
 
 - Ubuntu Server 24.04 LTS
 - Docker
@@ -58,11 +64,25 @@ The current infrastructure includes:
 
 ---
 
+## Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Operating System | Ubuntu Server 24.04 LTS |
+| Containers | Docker |
+| Backend | Python, Flask |
+| Networking | AdGuard Home, Tailscale |
+| Monitoring | ntopng |
+| File Sharing | Samba |
+| Security | UFW |
+
 ## Architecture
 
-> Architecture diagram coming soon.
+The diagram below illustrates the current infrastructure, networking topology, and service relationships within the homelab.
 
----
+<p align="center">
+    <img src="diagrams/homelab-architecture-v2.png" alt="Homelab Architecture" width="100%">
+</p>
 
 ## Project Structure
 
