@@ -5,6 +5,10 @@
 ![License](https://img.shields.io/github/license/a3x0666/homelab-infrastructure)
 ![Release](https://img.shields.io/github/v/release/a3x0666/homelab-infrastructure)
 
+<p align="center">
+  <img src="assets/banner.png" alt="Homelab Infrastructure Banner">
+</p>
+
 # Homelab Infrastructure
 
 A self-hosted infrastructure project built on an old HP laptop running Ubuntu Server 24.04 LTS. The project focuses on building a lightweight, secure, and fully documented homelab using open-source technologies while serving as a platform for learning Linux administration, networking, Docker, and self-hosting.
